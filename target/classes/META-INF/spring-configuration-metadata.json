@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "name": "file",
+      "type": "web.model.DocumnentStorageProperties",
+      "sourceType": "web.model.DocumnentStorageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "file.document-format",
+      "type": "java.lang.String",
+      "sourceType": "web.model.DocumnentStorageProperties"
+    },
+    {
+      "name": "file.document-id",
+      "type": "java.lang.Integer",
+      "sourceType": "web.model.DocumnentStorageProperties"
+    },
+    {
+      "name": "file.document-type",
+      "type": "java.lang.String",
+      "sourceType": "web.model.DocumnentStorageProperties"
+    },
+    {
+      "name": "file.file-name",
+      "type": "java.lang.String",
+      "sourceType": "web.model.DocumnentStorageProperties"
+    },
+    {
+      "name": "file.upload-dir",
+      "type": "java.lang.String",
+      "sourceType": "web.model.DocumnentStorageProperties"
+    },
+    {
+      "name": "file.user-id",
+      "type": "java.lang.Integer",
+      "sourceType": "web.model.DocumnentStorageProperties"
+    }
+  ],
+  "hints": []
+}

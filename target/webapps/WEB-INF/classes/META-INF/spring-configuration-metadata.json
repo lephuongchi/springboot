@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "file",
+      "type": "model.DocumnentStorageProperties",
+      "sourceType": "model.DocumnentStorageProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
